@@ -26,8 +26,9 @@ This lab focuses on setting up a multi-forest Active Directory Domain Services (
 
 ## 📄 Files
 
-- 📘 [**Lab Instructions** – Assignment PDF](./Lab1_Assignment_(Part_I)_Guillermo_Padilla_Keymole_Managing.pdf)
-- 📝 [**Final Lab Report** – Completed Work](./Lab1_Assignment_(Part_I)_Guillermo_Padilla_Keymole.pdf)
+- 📘 [**Lab Instructions** – Assignment PDF](./Lab%20Assignment%201%20(Part%20I).pdf)
+- 📝 [**Final Lab Report** – Completed Work](./Lab1_Assignment_(Part%20I)_Guillermo_Padilla_Keymole.pdf)
+
 
 ---
 

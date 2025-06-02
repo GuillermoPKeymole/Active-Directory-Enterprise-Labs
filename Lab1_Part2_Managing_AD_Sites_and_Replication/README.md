@@ -29,8 +29,9 @@ This lab provides hands-on experience in configuring and managing **Active Direc
 
 ## 📄 Files
 
-- 📘 [**Lab Instructions** – Assignment PDF](./Lab%20Assignment%201%20(Part%20II).pdf)
-- 📝 [**Final Lab Report** – Completed Work](./Lab_Assignment_1_(Part%20II)_Guillermo_Padilla_Keymole.pdf)
+- 📘 [**Lab Instructions** – Assignment PDF](./Lab%20Assignment%201%20(Part%20II).pdf)  
+- 📝 [**Final Lab Report** – Completed Work](./Lab_Assignment_1_(Part%20II)_Guillermo_Padilla_Keymole.pdf)  
+- 📌 [**Supplemental** – Task 12 PDF](./Lab%20Assignment%201%20(Part%20II)%20-%20Task%2012.pdf)
 
 ---
 

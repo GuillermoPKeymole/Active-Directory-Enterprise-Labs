@@ -8,13 +8,13 @@ This repository showcases a series of advanced lab assignments from the **Networ
 
 | Lab | Description | Key Focus |
 |-----|-------------|-----------|
-| [Lab 1 – Part I](./Lab1_Assignment_PartI/Lab1_Assignment_(Part%20I)_Guillermo_Padilla_Keymole.pdf) | AD Forest and Domain Setup | Multi-DC environments, child domains, site links |
-| [Lab 1 – Part II](./Lab1_Assignment_PartII/Lab_Assignment_1_(Part%20II)_Guillermo_Padilla_Keymole.pdf) | FSMO & GC Management | Trusts, replication, Global Catalog, cleanup |
-| [Lab 2 – GPO Part I](./Lab2_GPO_PartI/Lab_Assignment_2_Guillermo_Padilla_Keymole_(Part%20I)-GPO.pdf) | GPO Fundamentals | SYSVOL, policies, RSOP, inheritance |
-| [Lab 2 – GPO Part II](./Lab2_GPO_PartII/Lab_Assignment_2_Guillermo_Padilla_Keymole_(Part%20II)-GPO.pdf) | GPO Modeling & Delegation | Group-based targeting, planning |
-| [Lab 2 – GPO Part III](./Lab2_GPO_PartIII/Lab_Assignment_2_Guillermo_Padilla_Keymole_(Part%20III)-GPO.pdf) | GPO Troubleshooting | gpresult, logging, policy conflict resolution |
-| [Lab 3 – CA Part I](./Lab3_CA_PartI/Lab_Assignment_3_GuillermoPK_(Part%20I)–Deploying%20a%20Certificate%20Authority%20Server.pdf) | Standalone Root CA | Offline CA, CRL/CDP setup, AIA URLs |
-| [Lab 3 – CA Part II](./Lab3_CA_PartII/Lab_Assignment_3_GuillermoPK_(Part%20II)–Managing%20a%20Certificate%20Authority%20Server.pdf) | Enterprise CA | Autoenrollment, HTTPS binding, SSL for IIS |
+| [Lab Assignment 1 (Part I) – Managing AD Domains, Forests, and Trusts](./Lab%20Assignment%201%20(Part%20I)%20–%20Managing%20AD%20Domains%2C%20Forests%2C%20and%20Trusts/Lab1_Assignment_(Part%20I)_Guillermo_Padilla_Keymole.pdf) | AD Forest and Domain Setup | Multi-DC environments, child domains, site links |
+| [Lab Assignment 1 (Part II) – Managing AD Sites and Replication](./Lab%20Assignment%201%20(Part%20II)%20–%20Managing%20AD%20Sites%20and%20Replication/Lab_Assignment_1_(Part%20II)_Guillermo_Padilla_Keymole.pdf) | FSMO & GC Management | Trusts, replication, Global Catalog, cleanup |
+| [Lab Assignment 2 (Part I) – Group Policy Implementation](./Lab%20Assignment%202%20(Part%20I)%20–%20Group%20Policy%20Implementation/Lab_Assignment_2_Guillermo_Padilla_Keymole_(Part%20I)-GPO.pdf) | GPO Fundamentals | SYSVOL, policies, RSOP, inheritance |
+| [Lab Assignment 2 (Part II) – GPO Management](./Lab%20Assignment%202%20(Part%20II)%20–%20GPO%20Management/Lab_Assignment_2_Guillermo_Padilla_Keymole_(Part%20II)-GPO.pdf) | GPO Modeling & Delegation | Group-based targeting, planning |
+| [Lab Assignment 2 (Part III) – Advanced GPO Management](./Lab%20Assignment%202%20(Part%20III)%20–%20Advanced%20GPO%20Management/Lab_Assignment_%202_Guillermo_Padilla_Keymole_(Part%20III)-GPO.pdf) | GPO Troubleshooting | gpresult, logging, policy conflict resolution |
+| [Lab Assignment 3 (Part I) – Deploying a Certificate Authority Server](./Lab%20Assignment%203%20(Part%20I)%20–%20Deploying%20a%20Certificate%20Authority%20Server/Lab_Assignment_3_GuillermoPK_(Part%20I)–Deploying%20a%20Certificate%20Authority%20Server.pdf) | Standalone Root CA | Offline CA, CRL/CDP setup, AIA URLs |
+| [Lab Assignment 3 (Part II) – Managing a Certificate Authority Server](./Lab%20Assignment%203%20(Part%20II)%20–%20Managing%20a%20Certificate%20Authority%20Server/Lab_Assignment_3_GuillermoPK_(Part%20II)–Managing%20a%20Certificate%20Authority%20Server.pdf) | Enterprise CA | Autoenrollment, HTTPS binding, SSL for IIS |
 
 ---
 

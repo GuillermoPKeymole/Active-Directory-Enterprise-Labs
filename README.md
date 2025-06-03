@@ -40,6 +40,6 @@ John Abbott College
 ## 🌐 Connect
 
 - [GitHub Portfolio](https://github.com/GuillermoPKeymole)
-- [LinkedIn](https://www.linkedin.com/in/guillermo-padilla-keymole)
+- [LinkedIn](https://www.linkedin.com/in/guillermo-padilla-keymole-a24328363)
 
 ---
